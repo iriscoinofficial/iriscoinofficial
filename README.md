@@ -1,5 +1,9 @@
 **Iris Cryptocurrency**
 
+![irish-removebg-preview](https://github.com/iriscoinofficial/iriscoinofficial/assets/145275023/715c4a39-142b-4bb5-93bf-fc3c15aba56c)
+
+
+
 Iris is a premined cryptocurrency with a total supply of 1000000000 coins. It is designed to be a fast and secure digital currency with zero transaction fees. Iris has its own dedicated blockchain, which is currently under development.
 
 Iris will be distributed hourly for a period of 5 years, starting from the launch date. Each hour, 0.001 coins will be awarded to each person who claims them by completing a simple captcha. After 5 years, any remaining coins will be burned.
